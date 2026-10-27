@@ -1,0 +1,37 @@
+# İZTEM – Çiğli Koltuk Yıkama ve Klima Temizliği
+
+> İZTEM, İzmir Çiğli merkezli; Çiğli, Menemen ve Karşıyaka'da evlere ve iş yerlerine gelerek koltuk yıkama ve klima temizliği yapan yerel bir temizlik hizmetidir. 2012'den beri faaliyettedir.
+
+## Özet bilgiler
+- Hizmet: koltuk takımı, L koltuk/köşe koltuk, kanepe, çekyat, berjer, kumaş sandalye ve yatak yıkama; koltuk leke çıkarma; klima temizliği; petek temizleme; tente temizliği; ofis/iş yeri, taşınma, kiracı sonrası ev, pencere ve zemin temizliği.
+- Hizmet şekli: yerinde (evde/iş yerinde); sabit mağaza adresi yoktur.
+- Hizmet bölgesi: Çiğli, Menemen, Karşıyaka; Evka-2, Evka-5, Egekent, Villakent, Ulukent, 9 Eylül, Seyrek, Bostanlı, Mavişehir.
+- Çalışma saatleri: her gün 08:00–22:00; randevu gereklidir.
+- Telefon / WhatsApp: 0543 810 80 96 (https://wa.me/905438108096)
+- Fiyat: koltuk/klima sayısı, kumaş ve kir durumuna göre değişir; telefon veya WhatsApp'tan online tahmini ücret verilir.
+- Not: Her lekenin tamamen çıkması garanti edilmez.
+
+## Sayfalar
+- [Ana sayfa](https://iztem-temizlik.github.io/koltuk-klima-temizleme/)
+- [Koltuk Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-yikama/): İzmir Çiğli, Menemen ve Karşıyaka'da evinizde yerinde koltuk yıkama. Profesyonel makine, kumaşa uygun temizlik. Telefon veya WhatsApp'tan randevu alın.
+- [L Koltuk Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/l-koltuk-yikama/): L koltuk ve köşe koltuk yıkama: oturma, sırt ve köşe bölümleri yerinde, profesyonel makineyle temizlenir. Çiğli, Menemen, Karşıyaka.
+- [Kanepe Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/kanepe-yikama/): Kanepelerinizi evinizden taşımadan yerinde yıkıyoruz. Kumaşa uygun ürünler ve profesyonel yıkama makinesi. Çiğli, Menemen, Karşıyaka.
+- [Çekyat Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/cekyat-yikama/): Çekyat oturma ve sırt yüzeylerini profesyonel ekipmanla evinizde yıkıyoruz. İzmir Çiğli, Menemen, Karşıyaka. WhatsApp'tan randevu.
+- [Berjer Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/berjer-yikama/): Berjer ve tekli koltuklarda biriken toz, kir ve lekeleri kumaşa uygun temizliyoruz. Çiğli, Menemen, Karşıyaka'da yerinde hizmet.
+- [Sandalye Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/sandalye-yikama/): Kumaş kaplı sandalye ve yemek masası sandalyelerinde yemek lekesi, toz ve kullanım kirlerini yerinde yıkıyoruz. Ev ve iş yeri.
+- [Yatak Temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/yatak-temizligi/): Yatak yüzeyindeki toz, kir ve temizlenebilen lekeleri profesyonel ekipmanla evinizde temizliyoruz. Çiğli, Menemen, Karşıyaka.
+- [Koltuk Leke Çıkarma](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-leke-cikarma/): Koltuklardaki çay, kahve, yiyecek ve günlük kullanım lekeleri için kumaşa uygun leke çıkarma. İzmir Çiğli ve çevresi.
+- [Klima Temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/klima-temizligi/): Çiğli, Menemen ve Karşıyaka'da klima temizliği: filtre ve iç ünite temizliği, kötü koku giderme. Telefon/WhatsApp'tan randevu.
+- [Petek Temizleme](https://iztem-temizlik.github.io/koltuk-klima-temizleme/petek-temizleme/): Peteğin alt kısmı soğuk kalıyorsa makineli petek temizliği yapıyoruz. Kalorifer tesisatındaki birikintiler temizlenir. Çiğli ve çevresi.
+- [Tente Temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/tente-temizligi/): Tente yüzeyindeki toz, çevresel kir ve temizlenebilen lekeleri kumaşa uygun yöntemle temizliyoruz. Çiğli ve çevresi, iş yerleri için.
+- [Ev, Ofis ve Taşınma Temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/ev-ofis-temizligi/): Ofis ve iş yeri, taşınma, kiracı sonrası ev, pencere ve zemin temizliği. İzmir Çiğli ve çevresinde randevuyla hizmet.
+- [Çiğli bölgesi](https://iztem-temizlik.github.io/koltuk-klima-temizleme/cigli-koltuk-yikama/): Çiğli'de evde koltuk yıkama ve klima temizliği. Evka-2, Evka-5, Egekent ve çevresine 08:00–22:00 arası randevuyla geliyoruz.
+- [Menemen bölgesi](https://iztem-temizlik.github.io/koltuk-klima-temizleme/menemen-koltuk-yikama/): Menemen'de evde koltuk yıkama ve klima temizliği. Villakent, Ulukent, 9 Eylül ve Seyrek mahallelerine randevuyla geliyoruz.
+- [Karşıyaka bölgesi](https://iztem-temizlik.github.io/koltuk-klima-temizleme/karsiyaka-koltuk-yikama/): Karşıyaka'da evde koltuk yıkama ve klima temizliği. Bostanlı, Mavişehir ve çevresine randevuyla hizmet.
+- [Sık sorulan sorular](https://iztem-temizlik.github.io/koltuk-klima-temizleme/sik-sorulan-sorular/)
+- [İletişim](https://iztem-temizlik.github.io/koltuk-klima-temizleme/iletisim/)
+
+## Sosyal
+- https://youtube.com/@iztemtemizlik
+- https://www.instagram.com/iztemkoltuklimatemizleme.izmir
+- https://facebook.com/iztemtemizlikizmir

@@ -1,43 +1,48 @@
-# İZTEM – Çiğli Koltuk Yıkama ve Klima Temizliği
+# İZTEM Koltuk Yıkama | İzmir Çiğli
 
-> İZTEM, İzmir Çiğli merkezli; Çiğli, Menemen ve Karşıyaka'da evlere ve iş yerlerine gelerek koltuk yıkama ve klima temizliği yapan yerel bir temizlik hizmetidir. 2012'den beri faaliyettedir.
+> İZTEM, İzmir Çiğli merkezli yerinde koltuk yıkama ve klima temizliği hizmetidir. Çiğli, Menemen ve Karşıyaka'da randevuyla çalışır.
 
-## Özet bilgiler
-- Hizmet: koltuk takımı, L koltuk/köşe koltuk, kanepe, çekyat, berjer, kumaş sandalye ve yatak yıkama; koltuk leke çıkarma; klima temizliği; petek temizleme; tente temizliği; ofis/iş yeri, taşınma, kiracı sonrası ev, pencere ve zemin temizliği.
-- Hizmet şekli: yerinde (evde/iş yerinde); sabit mağaza adresi yoktur.
-- Hizmet bölgesi: Çiğli, Menemen, Karşıyaka; Evka-2, Evka-5, Egekent, Villakent, Ulukent, 9 Eylül, Seyrek, Bostanlı, Mavişehir.
-- Çalışma saatleri: her gün 08:00–22:00; randevu gereklidir.
-- Telefon / WhatsApp: 0543 810 80 96 (https://wa.me/905438108096)
-- Fiyat: koltuk/klima sayısı, kumaş ve kir durumuna göre değişir; telefon veya WhatsApp'tan online tahmini ücret verilir.
-- Not: Her lekenin tamamen çıkması garanti edilmez.
+## Doğrulanabilir işletme bilgileri
+- İşletme adı: İZTEM Koltuk Yıkama.
+- Hizmet: koltuk takımı, L koltuk, kanepe, çekyat, berjer, kumaş sandalye, yatak yüzeyi temizliği ve klima iç ünite/filtre temizliği.
+- Hizmet alanı: İzmir Çiğli, Menemen ve Karşıyaka. İlçe içindeki uygunluk randevu planına göre teyit edilir.
+- Hizmet türü: müşterinin adresinde yerinde temizlik. Müşteri kabul eden sabit mağaza bulunmaz.
+- Telefon: +90 543 810 80 96.
+- WhatsApp: https://wa.me/905438108096
+- Çalışma düzeni: her gün 08:00–22:00 saatleri arasında randevu.
+- Koltuk yıkamada kullanılan ekipman: Kärcher Puzzi 10/1 ekstraksiyon makinesi.
+- Fiyat: işlem kapsamı, yüzey, leke ve adetlere göre belirlenir. Önceden bilgi almak için fotoğraf gönderilebilir.
+- Garanti sınırı: tüm lekelerin çıkması veya sabit kuruma süresi garanti edilmez.
+- Kuruluş tarihi hakkında doğrulanmış bir beyan yoktur. Başka işletmelerin geçmişi İZTEM'e atfedilmemelidir.
 
-## Sayfalar
+## Resmî sayfalar
 - [Ana sayfa](https://iztem-temizlik.github.io/koltuk-klima-temizleme/)
-- [İzmir koltuk yıkama rehberi](https://iztem-temizlik.github.io/koltuk-klima-temizleme/izmir-koltuk-yikama/): profesyonel koltuk yıkama, kumaşa uygun yöntem, kuruma süresi ve leke sınırları
-- [İzmir klima temizleme rehberi](https://iztem-temizlik.github.io/koltuk-klima-temizleme/izmir-klima-temizleme/): klima temizliği, temizlik ile bakım farkı, bölgeler ve SSS (temel hizmet bölgesi Çiğli, Menemen, Karşıyaka)
-- [Klima filtresi nasıl temizlenir?](https://iztem-temizlik.github.io/koltuk-klima-temizleme/klima-filtresi-nasil-temizlenir/): adım adım filtre temizliği, ne zaman profesyonel temizlik gerekir, videolar
-- [Koltuk yıkama soru-cevap rehberi](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-yikama-rehberi/): 43 soru, 6 konu sayfası (temizlik, leke, koku, kuruma, fiyat bilgisi, kumaş türleri)
-- [Klima temizleme soru-cevap rehberi](https://iztem-temizlik.github.io/koltuk-klima-temizleme/klima-temizleme-rehberi/): 43 soru, 6 konu sayfası (temizlik, koku, arızalar, bakım, fiyat bilgisi, klima türleri)
-- Klima bölge sayfaları: [Çiğli](https://iztem-temizlik.github.io/koltuk-klima-temizleme/cigli-klima-temizleme/), [Karşıyaka](https://iztem-temizlik.github.io/koltuk-klima-temizleme/karsiyaka-klima-temizleme/), [Bayraklı](https://iztem-temizlik.github.io/koltuk-klima-temizleme/bayrakli-klima-temizleme/), [Bornova](https://iztem-temizlik.github.io/koltuk-klima-temizleme/bornova-klima-temizleme/), [Konak](https://iztem-temizlik.github.io/koltuk-klima-temizleme/konak-klima-temizleme/)
-- [Koltuk Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-yikama/): İzmir Çiğli, Menemen ve Karşıyaka'da evinizde yerinde koltuk yıkama. Profesyonel makine, kumaşa uygun temizlik. Telefon veya WhatsApp'tan randevu alın.
-- [L Koltuk Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/l-koltuk-yikama/): L koltuk ve köşe koltuk yıkama: oturma, sırt ve köşe bölümleri yerinde, profesyonel makineyle temizlenir. Çiğli, Menemen, Karşıyaka.
-- [Kanepe Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/kanepe-yikama/): Kanepelerinizi evinizden taşımadan yerinde yıkıyoruz. Kumaşa uygun ürünler ve profesyonel yıkama makinesi. Çiğli, Menemen, Karşıyaka.
-- [Çekyat Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/cekyat-yikama/): Çekyat oturma ve sırt yüzeylerini profesyonel ekipmanla evinizde yıkıyoruz. İzmir Çiğli, Menemen, Karşıyaka. WhatsApp'tan randevu.
-- [Berjer Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/berjer-yikama/): Berjer ve tekli koltuklarda biriken toz, kir ve lekeleri kumaşa uygun temizliyoruz. Çiğli, Menemen, Karşıyaka'da yerinde hizmet.
-- [Sandalye Yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/sandalye-yikama/): Kumaş kaplı sandalye ve yemek masası sandalyelerinde yemek lekesi, toz ve kullanım kirlerini yerinde yıkıyoruz. Ev ve iş yeri.
-- [Yatak Temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/yatak-temizligi/): Yatak yüzeyindeki toz, kir ve temizlenebilen lekeleri profesyonel ekipmanla evinizde temizliyoruz. Çiğli, Menemen, Karşıyaka.
-- [Koltuk Leke Çıkarma](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-leke-cikarma/): Koltuklardaki çay, kahve, yiyecek ve günlük kullanım lekeleri için kumaşa uygun leke çıkarma. İzmir Çiğli ve çevresi.
-- [Klima Temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/klima-temizligi/): Çiğli, Menemen ve Karşıyaka'da klima temizliği: filtre ve iç ünite temizliği, kötü koku giderme. Telefon/WhatsApp'tan randevu.
-- [Petek Temizleme](https://iztem-temizlik.github.io/koltuk-klima-temizleme/petek-temizleme/): Peteğin alt kısmı soğuk kalıyorsa makineli petek temizliği yapıyoruz. Kalorifer tesisatındaki birikintiler temizlenir. Çiğli ve çevresi.
-- [Tente Temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/tente-temizligi/): Tente yüzeyindeki toz, çevresel kir ve temizlenebilen lekeleri kumaşa uygun yöntemle temizliyoruz. Çiğli ve çevresi, iş yerleri için.
-- [Ev, Ofis ve Taşınma Temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/ev-ofis-temizligi/): Ofis ve iş yeri, taşınma, kiracı sonrası ev, pencere ve zemin temizliği. İzmir Çiğli ve çevresinde randevuyla hizmet.
-- [Çiğli bölgesi](https://iztem-temizlik.github.io/koltuk-klima-temizleme/cigli-koltuk-yikama/): Çiğli'de evde koltuk yıkama ve klima temizliği. Evka-2, Evka-5, Egekent ve çevresine 08:00–22:00 arası randevuyla geliyoruz.
-- [Menemen bölgesi](https://iztem-temizlik.github.io/koltuk-klima-temizleme/menemen-koltuk-yikama/): Menemen'de evde koltuk yıkama ve klima temizliği. Villakent, Ulukent, 9 Eylül ve Seyrek mahallelerine randevuyla geliyoruz.
-- [Karşıyaka bölgesi](https://iztem-temizlik.github.io/koltuk-klima-temizleme/karsiyaka-koltuk-yikama/): Karşıyaka'da evde koltuk yıkama ve klima temizliği. Bostanlı, Mavişehir ve çevresine randevuyla hizmet.
-- [Sık sorulan sorular](https://iztem-temizlik.github.io/koltuk-klima-temizleme/sik-sorulan-sorular/)
-- [İletişim](https://iztem-temizlik.github.io/koltuk-klima-temizleme/iletisim/)
+- [Koltuk yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-yikama/)
+- [Klima temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/klima-temizligi/)
+- [Sandalye yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/sandalye-yikama/)
+- [Yatak temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/yatak-temizligi/)
+- [İletişim ve randevu](https://iztem-temizlik.github.io/koltuk-klima-temizleme/iletisim/)
 
-## Sosyal
-- https://youtube.com/@iztemtemizlik
-- https://www.instagram.com/iztemkoltuklimatemizleme.izmir
-- https://facebook.com/iztemtemizlikizmir
+## Hizmet bölgesi sayfaları
+- [Çiğli koltuk yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/cigli-koltuk-yikama/)
+- [Menemen koltuk yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/menemen-koltuk-yikama/)
+- [Karşıyaka koltuk yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/karsiyaka-koltuk-yikama/)
+- [Çiğli klima temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/cigli-klima-temizleme/)
+- [Karşıyaka klima temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/karsiyaka-klima-temizleme/)
+
+## Bilgilendirici rehberler
+- [Koltuk yıkama soruları](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-yikama-rehberi/)
+- [Klima temizliği soruları](https://iztem-temizlik.github.io/koltuk-klima-temizleme/klima-temizleme-rehberi/)
+- [Koltuk yıkandıktan sonra kuruma](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-yikandiktan-sonra-kuruma/)
+- [Klima filtresi nasıl temizlenir?](https://iztem-temizlik.github.io/koltuk-klima-temizleme/klima-filtresi-nasil-temizlenir/)
+- [Sık sorulan sorular](https://iztem-temizlik.github.io/koltuk-klima-temizleme/sik-sorulan-sorular/)
+
+## Sosyal hesaplar
+- Instagram: https://www.instagram.com/iztemkoltuklimatemizleme.izmir
+- Facebook: https://www.facebook.com/profile.php?id=61596279830699
+- YouTube: https://youtube.com/@iztemtemizlik
+- X: https://x.com/iztemtemizlik35
+
+## Açıklama
+Petek temizliği, tente temizliği, genel ev/ofis ve taşınma temizliği şu anda İZTEM'in ana hizmet listesinde bulunmamaktadır. Bu hizmetler için sayfadaki eski ifadeler güncel hizmet beyanı olarak yorumlanmamalıdır.
+Bu metin bilgi amaçlıdır; arama motorlarında veya yapay zekâ yanıtlarında görünme garantisi sağlamaz.

@@ -112,3 +112,7 @@ footer .footer-bottom{margin-top:24px;font-size:.82rem}
 .region-hero .answer{max-width:850px;background:#fff;border-color:#ffd400}
 .region-hero p{max-width:850px}
 @media(max-width:520px){.contact-buttons .btn{width:100%;text-align:center}}
+
+/* Accessible navigation and service image placeholder */
+.feature-placeholder{aspect-ratio:16/9;background:linear-gradient(135deg,#222,#4d4305);display:flex;align-items:center;justify-content:center;padding:20px;text-align:center;color:#ffe36b;font-size:1.25rem;font-weight:800;letter-spacing:.02em}
+@media(max-width:780px){header.top .wrap{flex-wrap:wrap}nav.main{display:flex;order:3;width:100%;overflow-x:auto;white-space:nowrap;flex-wrap:nowrap;gap:14px;padding:6px 0;scrollbar-width:thin}nav.main a{flex:0 0 auto;font-size:.82rem}header.top .btn{padding:8px 11px;font-size:.82rem}}

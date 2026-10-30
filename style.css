@@ -103,3 +103,12 @@ footer .footer-bottom{margin-top:24px;font-size:.82rem}
 @media(max-width:780px){.hero{padding:38px 0}.hero-photo img{max-height:350px}.section-head{display:block}.section-head>p{max-width:none;margin-top:12px}.review-panel{display:block}.review-panel .btn{margin-top:8px}.feature-grid{grid-template-columns:1fr}.feature-body{padding:16px}}
 @media(max-width:520px){.photo-gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.trust-grid,.steps-grid{grid-template-columns:1fr}.hero .cta .btn{width:100%;text-align:center}.review-panel .btn{white-space:normal}section{padding:36px 0}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.feature-card{transition:none}}
+
+/* Shared contact and regional layouts */
+.contact-buttons{display:flex;flex-wrap:wrap;gap:12px;margin:22px 0}
+.region-hero{background:linear-gradient(140deg,#fff8cf,#faf9f5);padding:45px 0}
+.region-hero .wrap{max-width:1000px}
+.region-hero h1{max-width:900px;font-size:clamp(1.8rem,4vw,2.65rem);line-height:1.18}
+.region-hero .answer{max-width:850px;background:#fff;border-color:#ffd400}
+.region-hero p{max-width:850px}
+@media(max-width:520px){.contact-buttons .btn{width:100%;text-align:center}}

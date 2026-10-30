@@ -46,3 +46,60 @@ footer a{color:var(--y)}footer .cols{display:grid;grid-template-columns:repeat(a
 .fab .c{background:var(--y);color:#000}.fab .w{background:#25D366;color:#06260f}
 @media(max-width:780px){.hero .wrap{grid-template-columns:1fr}nav.main{display:none}body{font-size:16px}}
 @media(min-width:781px){.fab{display:none}footer{padding-bottom:36px}}
+
+
+/* 2026-10-30 — İZTEM ana sayfa düzeni */
+:focus-visible{outline:3px solid #c4a400;outline-offset:3px}
+.eyebrow{font-size:.76rem;letter-spacing:.13em;font-weight:800;color:var(--y);margin:0 0 12px}
+.eyebrow.dark{color:#7b6600}
+.hero{padding:60px 0}
+.hero-lead{font-size:1.1rem;max-width:56ch}
+.hero .service-area{color:#fff;font-size:.93rem;font-weight:600}
+.hero-photo{margin:0}
+.hero-photo img{width:100%;max-height:430px;object-fit:cover}
+.hero-photo figcaption{font-size:.78rem;color:#ddd;margin-top:8px}
+.hero .badges{gap:8px}
+.hero .badges li{padding:5px 10px}
+.narrow{max-width:830px}
+.intro p{max-width:80ch}
+.section-head{display:flex;justify-content:space-between;align-items:end;gap:24px;margin-bottom:22px}
+.section-head h2{margin-bottom:0}
+.section-head>p{max-width:350px;color:#555;margin:0;font-size:.94rem}
+.feature-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:18px}
+.feature-card{display:block;background:#fff;border:1px solid #e8e4d6;border-radius:var(--r);overflow:hidden;text-decoration:none;transition:box-shadow .2s,border-color .2s}
+.feature-card:hover{border-color:#c4a400;box-shadow:0 10px 24px #00000012}
+.feature-card:focus-visible{outline:3px solid var(--y)}
+.feature-card img{width:100%;aspect-ratio:16/9;object-fit:cover}
+.feature-body{padding:20px}
+.feature-body h3{font-size:1.25rem}
+.feature-body p{color:#555;font-size:.94rem;margin:0 0 12px}
+.feature-body span,.area-card span{color:#735f00;font-size:.9rem;font-weight:700}
+.photo-gallery{grid-template-columns:repeat(4,minmax(0,1fr))}
+.photo-gallery figure{margin:0}
+.photo-gallery figcaption{font-size:.82rem;color:#595959;margin-top:7px}
+.trust-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:14px}
+.trust-item{background:#faf9f5;border:1px solid #e8e4d6;border-radius:12px;padding:20px}
+.trust-item h3{font-size:1.08rem}
+.trust-item p{margin:0;color:#555;font-size:.93rem}
+.steps-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:18px}
+.steps-grid>div{padding:18px;border:1px solid #e8e4d6;border-radius:12px;background:#fff}
+.steps-grid span{font-weight:800;font-size:1.35rem;color:#806d00}
+.steps-grid h3{font-size:1.05rem;margin-top:12px}
+.steps-grid p{font-size:.91rem;color:#555;margin:0}
+.review-panel{display:flex;align-items:center;justify-content:space-between;gap:24px}
+.review-panel p{max-width:690px}
+.review-panel .btn{white-space:nowrap}
+.area-card span{display:block;margin-top:12px}
+.more-links{font-size:.92rem}
+.contact-cta{background:#1c1c1c;color:#fff;text-align:center}
+.contact-cta h2{color:#ffd400}
+.contact-cta p{color:#ececec}
+.contact-cta .cta{display:flex;justify-content:center;gap:12px;flex-wrap:wrap}
+.contact-cta .small-note{color:#ccc;font-size:.85rem}
+.footer-brand{color:#ffd400}
+footer .cols ul{padding-left:18px}
+footer .footer-bottom{margin-top:24px;font-size:.82rem}
+@media(max-width:900px){.photo-gallery{grid-template-columns:repeat(2,minmax(0,1fr))}.steps-grid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+@media(max-width:780px){.hero{padding:38px 0}.hero-photo img{max-height:350px}.section-head{display:block}.section-head>p{max-width:none;margin-top:12px}.review-panel{display:block}.review-panel .btn{margin-top:8px}.feature-grid{grid-template-columns:1fr}.feature-body{padding:16px}}
+@media(max-width:520px){.photo-gallery{grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}.trust-grid,.steps-grid{grid-template-columns:1fr}.hero .cta .btn{width:100%;text-align:center}.review-panel .btn{white-space:normal}section{padding:36px 0}}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}.feature-card{transition:none}}

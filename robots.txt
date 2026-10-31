@@ -52,4 +52,4 @@ Allow: /
 User-agent: meta-externalagent
 Allow: /
 
-Sitemap: https://iztem-temizlik.github.io/koltuk-klima-temizleme/sitemap.xml
+Sitemap: https://iztem.com.tr/sitemap.xml

@@ -16,26 +16,26 @@
 - Kuruluş tarihi hakkında doğrulanmış bir beyan yoktur. Başka işletmelerin geçmişi İZTEM'e atfedilmemelidir.
 
 ## Resmî sayfalar
-- [Ana sayfa](https://iztem-temizlik.github.io/koltuk-klima-temizleme/)
-- [Koltuk yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-yikama/)
-- [Klima temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/klima-temizligi/)
-- [Sandalye yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/sandalye-yikama/)
-- [Yatak temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/yatak-temizligi/)
-- [İletişim ve randevu](https://iztem-temizlik.github.io/koltuk-klima-temizleme/iletisim/)
+- [Ana sayfa](https://iztem.com.tr/)
+- [Koltuk yıkama](https://iztem.com.tr/koltuk-yikama/)
+- [Klima temizliği](https://iztem.com.tr/klima-temizligi/)
+- [Sandalye yıkama](https://iztem.com.tr/sandalye-yikama/)
+- [Yatak temizliği](https://iztem.com.tr/yatak-temizligi/)
+- [İletişim ve randevu](https://iztem.com.tr/iletisim/)
 
 ## Hizmet bölgesi sayfaları
-- [Çiğli koltuk yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/cigli-koltuk-yikama/)
-- [Menemen koltuk yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/menemen-koltuk-yikama/)
-- [Karşıyaka koltuk yıkama](https://iztem-temizlik.github.io/koltuk-klima-temizleme/karsiyaka-koltuk-yikama/)
-- [Çiğli klima temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/cigli-klima-temizleme/)
-- [Karşıyaka klima temizliği](https://iztem-temizlik.github.io/koltuk-klima-temizleme/karsiyaka-klima-temizleme/)
+- [Çiğli koltuk yıkama](https://iztem.com.tr/cigli-koltuk-yikama/)
+- [Menemen koltuk yıkama](https://iztem.com.tr/menemen-koltuk-yikama/)
+- [Karşıyaka koltuk yıkama](https://iztem.com.tr/karsiyaka-koltuk-yikama/)
+- [Çiğli klima temizliği](https://iztem.com.tr/cigli-klima-temizleme/)
+- [Karşıyaka klima temizliği](https://iztem.com.tr/karsiyaka-klima-temizleme/)
 
 ## Bilgilendirici rehberler
-- [Koltuk yıkama soruları](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-yikama-rehberi/)
-- [Klima temizliği soruları](https://iztem-temizlik.github.io/koltuk-klima-temizleme/klima-temizleme-rehberi/)
-- [Koltuk yıkandıktan sonra kuruma](https://iztem-temizlik.github.io/koltuk-klima-temizleme/koltuk-yikandiktan-sonra-kuruma/)
-- [Klima filtresi nasıl temizlenir?](https://iztem-temizlik.github.io/koltuk-klima-temizleme/klima-filtresi-nasil-temizlenir/)
-- [Sık sorulan sorular](https://iztem-temizlik.github.io/koltuk-klima-temizleme/sik-sorulan-sorular/)
+- [Koltuk yıkama soruları](https://iztem.com.tr/koltuk-yikama-rehberi/)
+- [Klima temizliği soruları](https://iztem.com.tr/klima-temizleme-rehberi/)
+- [Koltuk yıkandıktan sonra kuruma](https://iztem.com.tr/koltuk-yikandiktan-sonra-kuruma/)
+- [Klima filtresi nasıl temizlenir?](https://iztem.com.tr/klima-filtresi-nasil-temizlenir/)
+- [Sık sorulan sorular](https://iztem.com.tr/sik-sorulan-sorular/)
 
 ## Sosyal hesaplar
 - Instagram: https://www.instagram.com/iztemkoltuklimatemizleme.izmir

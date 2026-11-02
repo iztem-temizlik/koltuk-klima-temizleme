@@ -120,3 +120,45 @@ body{word-spacing:.035em}.hero h1,.inner-hero h1{letter-spacing:-.025em;word-spa
 
 /* Verified customer testimonial cards */
 .customer-review-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px;margin-top:22px}.customer-review{min-width:0;margin:0;background:#fff;border:1px solid #e8e6de;border-radius:16px;padding:22px;display:flex;flex-direction:column;gap:13px}.customer-review-stars{color:#d69d00;letter-spacing:.1em;font-size:18px}.customer-review blockquote{margin:0;font-size:14px;line-height:1.75;color:#252525;overflow-wrap:anywhere}.customer-review figcaption{display:flex;flex-direction:column;gap:3px;margin-top:auto;font-size:13px}.customer-review figcaption span,.review-context{color:#666;font-size:12px;line-height:1.6}@media(max-width:700px){.customer-review-grid{grid-template-columns:1fr}.customer-review{padding:18px}}
+
+/* Legacy indexed articles: preserve readable layouts while all articles share the new stylesheet */
+.wrap{width:min(1080px,calc(100% - 48px));margin:0 auto}
+header.top{background:#151515;color:#fff;position:sticky;top:0;z-index:30;border-bottom:3px solid #ffcc00}
+header.top .wrap{display:flex;align-items:center;justify-content:space-between;gap:18px;min-height:84px}
+header.top .brand{display:flex;align-items:center;gap:12px;font-size:18px;letter-spacing:.01em;font-weight:900;color:#ffcc00}
+header.top .brand img{width:60px;height:60px;object-fit:contain}
+header.top nav.main{display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+header.top nav.main a{color:#fff;font-size:12px;font-weight:800}
+header.top nav.main a:hover{color:#ffcc00}
+header.top .btn.p,main .btn.p{background:#ffcc00;color:#111;border-radius:8px}
+main .btn.wa{background:#208d54;color:#fff;border-radius:8px}
+main .btn.p,main .btn.wa{display:inline-flex;padding:14px 20px;font-weight:800;font-size:13px;min-height:44px;align-items:center;justify-content:center}
+body:has(header.top){background:#f8f8f6}
+body:has(header.top) main{padding-bottom:70px}
+body:has(header.top) main section{padding:45px 0}
+body:has(header.top) main section .wrap{padding:0}
+body:has(header.top) main h1{font-size:clamp(31px,4vw,47px)!important;line-height:1.22!important;margin:10px 0 23px!important;letter-spacing:-.025em;word-spacing:.05em}
+body:has(header.top) main h2{font-size:clamp(22px,2.8vw,30px);margin:35px 0 17px}
+body:has(header.top) main h3{font-size:19px}
+body:has(header.top) main p,body:has(header.top) main li{font-size:15px;line-height:1.85;color:#444}
+body:has(header.top) main img{max-width:100%;height:auto}
+body:has(header.top) main .answer{background:#fff6d8;border-left:4px solid #ffcc00;padding:17px 22px;border-radius:8px;margin:20px 0;color:#343434}
+body:has(header.top) main .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:15px}
+body:has(header.top) main .card{display:block;padding:23px;border:1px solid #e6e4db;background:#fff;border-radius:12px}
+body:has(header.top) main .gal{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+body:has(header.top) main .gal img{width:100%;aspect-ratio:4/3;object-fit:cover;border-radius:9px}
+body:has(header.top) main .contact-buttons,body:has(header.top) main .cta{display:flex;gap:10px;flex-wrap:wrap;margin:23px 0}
+body:has(header.top) main details{border:1px solid #e4e4e4;background:#fff;padding:15px 20px;border-radius:9px;margin:10px 0}
+body:has(header.top) main summary{cursor:pointer;font-weight:800}
+body:has(header.top) .crumbs{font-size:12px;color:#777;padding:18px 0}
+body:has(header.top) .region-hero{background:linear-gradient(135deg,#fff8da,#f8f8f6)}
+body:has(header.top) .region-hero .eyebrow{color:#a58400}
+body:has(header.top) main section.alt{background:#fff}
+body:has(header.top) footer{padding:48px 0 30px}
+body:has(header.top) footer .cols{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:30px}
+body:has(header.top) footer .cols a{display:inline-block;color:#ddd;margin:3px 0;font-size:12px}
+body:has(header.top) footer .cols b{color:#fff}
+body:has(header.top) footer .cols p{color:#aaa;font-size:12px}
+body:has(header.top) .fab{display:none}
+@media(max-width:950px){header.top .wrap{flex-wrap:wrap;padding:12px 0}header.top nav.main{order:3;width:100%;justify-content:flex-start;overflow-x:auto;white-space:nowrap;flex-wrap:nowrap;padding:8px 0}}
+@media(max-width:700px){.wrap{width:calc(100% - 32px)}header.top .brand img{width:44px;height:44px}header.top .wrap{gap:8px}header.top .btn.p{font-size:11px;padding:10px 12px}body:has(header.top) main section{padding:32px 0}body:has(header.top) main h1{font-size:30px!important}body:has(header.top) main .grid{grid-template-columns:1fr}body:has(header.top) footer .cols{grid-template-columns:1fr}body:has(header.top) main .contact-buttons .btn{width:100%;text-align:center}}

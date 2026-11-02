@@ -179,3 +179,63 @@ body.legacy-page .fab{display:none}
 .header .logo>span{display:none!important}
 @media(max-width:1120px){.header .logo img{width:205px!important;height:68px!important}}
 @media(max-width:700px){.header .logo img{width:190px!important;height:63px!important}.header .nav{gap:10px}}
+
+
+/* İZTEM homepage conversion update — 2026-11-02 */
+.home-hero{min-height:640px;isolation:isolate}
+.home-hero .hero-bg{object-position:center 58%;filter:saturate(.91)}
+.home-hero .hero-shade{background:linear-gradient(90deg,rgba(9,12,12,.98) 0%,rgba(9,12,12,.94) 43%,rgba(9,12,12,.65) 68%,rgba(9,12,12,.25) 100%)}
+.home-hero .hero-content{padding:86px 0 92px}
+.home-hero h1{font-size:clamp(41px,5.3vw,72px);max-width:800px;line-height:1.1;letter-spacing:-.037em}
+.home-hero h1 em{color:#ffcc00}
+.home-hero p{font-size:16px;line-height:1.85;max-width:580px}
+.hero-review-link{display:inline-flex;gap:10px;align-items:center;color:#fff;margin-top:22px;font-weight:700;font-size:12px;text-decoration:none;border-bottom:1px solid #ffffff80;padding-bottom:8px}
+.hero-review-link .hero-stars{color:#ffcc00;letter-spacing:2px}
+.hero-photo-note{position:absolute;bottom:18px;right:25px;color:#f3f3f3;font-size:10px;font-weight:700;text-shadow:0 1px 3px #111}
+.proof-strip{background:#fff;border-bottom:1px solid #e9e9e9}
+.proof-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:0}
+.proof-grid>div{padding:25px 20px;border-right:1px solid #eee;min-width:0}
+.proof-grid>div:first-child{padding-left:0}.proof-grid>div:last-child{border:0}
+.proof-grid strong{display:block;font-size:13px;font-weight:900;color:#151515}
+.proof-grid span{display:block;color:#777;font-size:11px;margin-top:4px}
+.steps-section{background:#f7f7f3}
+.steps-grid-home{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:18px}
+.step-card{background:#fff;border:1px solid #e8e8df;border-radius:15px;padding:29px}
+.step-card>span{display:inline-flex;background:#ffcc00;color:#1b1b1b;font-weight:900;padding:8px 10px;border-radius:7px;font-size:12px}
+.step-card h3{font-size:21px;margin:22px 0 10px}
+.step-card p{margin:0;color:#626262;font-size:13px;line-height:1.8}
+.reviews-section{background:#f9f8f4}
+.reviews-section .reviews-wrap{padding:0;background:transparent}
+.reviews-section h2{font-size:clamp(29px,4vw,44px);letter-spacing:-.03em;margin:8px 0 16px}
+.reviews-section .google-rating-display{display:flex;gap:16px;align-items:center;flex-wrap:wrap;background:#fff;padding:18px 23px;border:1px solid #ebebe5;border-radius:12px}
+.reviews-section .google-rating-display strong{font-size:29px;color:#111}
+.reviews-section .google-rating-display span{color:#666;font-size:12px}
+.reviews-section .review-context{max-width:780px;margin:15px 0 0;line-height:1.7}
+.quote-section{background:#fff}
+.quote-section .section-heading{margin-bottom:28px}
+.quote-grid{display:grid;grid-template-columns:1.15fr .85fr;gap:20px}
+.quote-card{border-radius:18px;padding:36px;min-width:0;display:flex;flex-direction:column;align-items:flex-start}
+.quote-sofa{background:#181818;color:#fff}
+.quote-ac{background:#faf9f3;border:1px solid #e7e5d8;color:#1c1c1c}
+.quote-label{font-size:11px;font-weight:900;letter-spacing:.14em;color:#ceaa14}
+.quote-card h3{font-size:clamp(26px,3vw,35px);line-height:1.2;margin:16px 0 14px}
+.quote-card p{font-size:14px;line-height:1.85;margin:0 0 25px;max-width:560px}
+.quote-sofa p{color:#e1e1e1}
+.quote-card ul{list-style:none;margin:0 0 28px;padding:0}
+.quote-card li{margin:8px 0;color:#f4f4f4;font-size:12px;font-weight:700}
+.quote-card li:before{content:"✓";color:#ffcc00;font-weight:900;margin-right:9px}
+.quote-card .btn{margin-top:auto;max-width:100%;white-space:normal;text-align:center;min-height:48px}
+.quote-ac .quote-from{color:#666;margin:15px 0 0;font-size:13px;font-weight:800}
+.quote-amount{font-size:clamp(40px,5.2vw,62px);font-weight:900;letter-spacing:-.04em;line-height:1.2;margin:10px 0 18px}
+.quote-amount span{font-size:18px;letter-spacing:0;color:#555}
+.quote-footnote{text-align:center;font-size:11px;color:#777;margin-top:18px;line-height:1.7}
+@media(max-width:1050px){.proof-grid strong{font-size:12px}.proof-grid>div{padding:22px 12px}}
+@media(max-width:760px){.proof-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.proof-grid>div{padding:17px 10px;border-bottom:1px solid #eee}.proof-grid>div:nth-child(2){border-right:0}.proof-grid>div:first-child{padding-left:10px}.steps-grid-home{grid-template-columns:1fr}.quote-grid{grid-template-columns:1fr}}
+@media(max-width:700px){.home-hero{min-height:610px}.home-hero .hero-bg{object-position:center}.home-hero .hero-shade{background:linear-gradient(90deg,rgba(8,11,11,.95),rgba(8,11,11,.84)),linear-gradient(0deg,rgba(8,11,11,.8),transparent)}
+.home-hero .hero-content{padding:72px 0 70px}.home-hero h1{font-size:clamp(35px,9vw,46px);line-height:1.13;letter-spacing:-.04em;overflow-wrap:break-word}
+.home-hero p{font-size:14px}.home-hero .hero-buttons .btn{width:100%;white-space:normal;text-align:center}
+.home-hero .hero-points{gap:8px}.home-hero .hero-points span{font-size:11px}.hero-photo-note{display:none}
+.proof-grid strong{font-size:12px}.proof-grid span{font-size:11px}.step-card{padding:24px}
+.quote-card{padding:27px}.quote-card .btn{width:100%}.quote-ac .quote-amount{font-size:46px}
+.reviews-section .google-rating-display{padding:15px}.reviews-section .google-rating-display strong{font-size:26px}
+}

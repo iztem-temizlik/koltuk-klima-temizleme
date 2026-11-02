@@ -172,3 +172,10 @@ body.legacy-page .fab{display:none}
 .legacy-page main .grid .card h3{line-height:1.4}
 .legacy-page main .wrap a:not(.btn):not(.card){text-underline-offset:3px}
 @media(max-width:700px){.legacy-page main .wrap{padding:0}.legacy-page main img[fetchpriority="high"]{max-height:260px}.legacy-page main .region-hero{padding:35px 0}.legacy-page main section>div.wrap{max-width:100%}}
+
+/* Logo v20261102: the horizontal approved brand logo, prominently sized */
+.header .logo{flex:0 0 auto;min-width:0}
+.header .logo img{display:block;width:242px!important;height:80px!important;max-width:100%;object-fit:contain;object-position:left center}
+.header .logo>span{display:none!important}
+@media(max-width:1120px){.header .logo img{width:205px!important;height:68px!important}}
+@media(max-width:700px){.header .logo img{width:190px!important;height:63px!important}.header .nav{gap:10px}}

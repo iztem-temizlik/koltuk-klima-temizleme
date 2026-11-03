@@ -44,3 +44,25 @@ document.querySelector('#teklif').addEventListener('submit', async event => {
   track('whatsapp_click', {service});
   location.assign('https://wa.me/905438108096?text=' + encodeURIComponent(text));
 });
+
+const photoButtons = document.querySelectorAll('.photo-switch button');
+for (const button of photoButtons) {
+  button.addEventListener('click', () => {
+    for (const choice of photoButtons) {
+      const active = choice === button;
+      choice.setAttribute('aria-pressed', String(active));
+      document.getElementById(choice.getAttribute('aria-controls')).hidden = !active;
+    }
+  });
+}
+
+const mobileMenu = document.querySelector('.mobile-menu');
+mobileMenu.addEventListener('click', event => {
+  if (event.target.closest('a')) mobileMenu.open = false;
+});
+mobileMenu.addEventListener('keydown', event => {
+  if (event.key === 'Escape') {
+    mobileMenu.open = false;
+    mobileMenu.querySelector('summary').focus();
+  }
+});

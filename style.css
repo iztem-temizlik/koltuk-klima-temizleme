@@ -257,3 +257,10 @@ body.legacy-page .fab{display:none}
 .local-area-panel li{margin:9px 0}
 .local-area-panel .btn{margin-top:8px;white-space:normal;text-align:center}
 @media(max-width:640px){.local-choice-nav{grid-template-columns:1fr;gap:9px;margin-top:20px}.local-choice-nav a{padding:13px 15px}.local-area-section{padding:34px 0}.local-area-panel{padding:19px}.local-area-panel .btn{display:flex;width:100%}}
+
+
+/* Keep section titles and the complete mobile menu within the visible screen. */
+main [id]{scroll-margin-top:104px}
+.header .menu-toggle{min-width:44px;min-height:44px;align-items:center;justify-content:center}
+@media(max-width:1120px){.header .menu-toggle{display:inline-flex}.header .links{top:100%;flex-wrap:nowrap;justify-content:flex-start;max-height:calc(100vh - 145px);max-height:calc(100dvh - 145px - env(safe-area-inset-bottom));overscroll-behavior:contain}.header .links>*{flex-shrink:0}.header .links>a{display:flex;align-items:center;min-height:44px}.header .links .nav-sub a{min-height:44px}}
+@media(max-width:700px){main [id]{scroll-margin-top:90px}}

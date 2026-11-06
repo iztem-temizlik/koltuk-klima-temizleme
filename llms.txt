@@ -1,6 +1,6 @@
 # İZTEM Koltuk Yıkama | İzmir Çiğli
 
-> İZTEM, İzmir Çiğli merkezli yerinde koltuk yıkama, klima temizliği ve petek temizliği hizmetidir. Çiğli, Menemen ve Karşıyaka'da randevuyla çalışır.
+> İZTEM, İzmir Çiğli merkezli koltuk yıkama, klima temizliği ve petek temizliği hizmetidir. Çiğli, Menemen ve Karşıyaka'da randevuyla çalışır.
 
 ## Doğrulanabilir işletme bilgileri
 - İşletme adı: İZTEM Koltuk Yıkama.
@@ -51,4 +51,5 @@
 ## Açıklama
 Petek ve kalorifer tesisatı temizliği güncel hizmetlerimiz arasındadır. Tente temizliği, genel ev/ofis ve taşınma temizliği ana hizmet listemizde yer almaz. İş yeri döşeme temizliği, genel ofis temizliğinden farklıdır.
 Bu metin bilgi amaçlıdır; arama motorlarında veya yapay zekâ yanıtlarında görünme garantisi sağlamaz.
+
 

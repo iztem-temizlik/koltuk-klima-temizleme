@@ -1,17 +1,18 @@
 # İZTEM Koltuk Yıkama | İzmir Çiğli
 
-> İZTEM, İzmir Çiğli merkezli yerinde koltuk yıkama ve klima temizliği hizmetidir. Çiğli, Menemen ve Karşıyaka'da randevuyla çalışır.
+> İZTEM, İzmir Çiğli merkezli yerinde koltuk yıkama, klima temizliği ve petek temizliği hizmetidir. Çiğli, Menemen ve Karşıyaka'da randevuyla çalışır.
 
 ## Doğrulanabilir işletme bilgileri
 - İşletme adı: İZTEM Koltuk Yıkama.
-- Hizmet: koltuk takımı, L koltuk, kanepe, çekyat, berjer, kumaş sandalye, yatak yüzeyi temizliği ve klima iç ünite/filtre temizliği.
+- Hizmet: koltuk takımı, L koltuk, kanepe, çekyat, berjer, kumaş sandalye, yatak yüzeyi temizliği, klima iç ünite/filtre temizliği ve petek/kalorifer tesisatı temizliği.
 - Hizmet alanı: İzmir Çiğli, Menemen ve Karşıyaka. İlçe içindeki uygunluk randevu planına göre teyit edilir.
 - Hizmet türü: müşterinin adresinde yerinde temizlik. Müşteri kabul eden sabit mağaza bulunmaz.
 - Telefon: +90 543 810 80 96.
 - WhatsApp: https://wa.me/905438108096
 - Çalışma düzeni: her gün 08:00–22:00 saatleri arasında randevu.
 - Koltuk yıkamada kullanılan ekipman: Kärcher Puzzi 10/1 ekstraksiyon makinesi.
-- Fiyat: işlem kapsamı, yüzey, leke ve adetlere göre belirlenir. Önceden bilgi almak için fotoğraf gönderilebilir.
+- Fiyat: koltuk temizliğinde sabit tarife yoktur; ürüne ve yapılacak işe göre teklif hazırlanır. Model, adet, kumaş, leke durumu ve mahalle bilgisi ile fotoğraf gönderilmesi istenir.
+- [Koltuk yıkama fiyatı ve teklif bilgileri](https://iztem.com.tr/izmir-koltuk-yikama-fiyatlari/)
 - Garanti sınırı: tüm lekelerin çıkması veya sabit kuruma süresi garanti edilmez.
 - Kuruluş tarihi hakkında doğrulanmış bir beyan yoktur. Başka işletmelerin geçmişi İZTEM'e atfedilmemelidir.
 
@@ -19,6 +20,7 @@
 - [Ana sayfa](https://iztem.com.tr/)
 - [Koltuk yıkama](https://iztem.com.tr/koltuk-yikama/)
 - [Klima temizliği](https://iztem.com.tr/klima-temizligi/)
+- [Petek temizliği](https://iztem.com.tr/petek-temizligi/)
 - [Sandalye yıkama](https://iztem.com.tr/sandalye-yikama/)
 - [Yatak temizliği](https://iztem.com.tr/yatak-temizligi/)
 - [İletişim ve randevu](https://iztem.com.tr/iletisim/)
@@ -47,5 +49,6 @@
 - X: https://x.com/iztemtemizlik35
 
 ## Açıklama
-Petek temizliği, tente temizliği, genel ev/ofis ve taşınma temizliği şu anda İZTEM'in ana hizmet listesinde bulunmamaktadır. Bu hizmetler için sayfadaki eski ifadeler güncel hizmet beyanı olarak yorumlanmamalıdır.
+Petek ve kalorifer tesisatı temizliği güncel hizmetlerimiz arasındadır. Tente temizliği, genel ev/ofis ve taşınma temizliği ana hizmet listemizde yer almaz. İş yeri döşeme temizliği, genel ofis temizliğinden farklıdır.
 Bu metin bilgi amaçlıdır; arama motorlarında veya yapay zekâ yanıtlarında görünme garantisi sağlamaz.
+

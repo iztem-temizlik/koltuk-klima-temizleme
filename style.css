@@ -239,3 +239,21 @@ body.legacy-page .fab{display:none}
 .quote-card{padding:27px}.quote-card .btn{width:100%}.quote-ac .quote-amount{font-size:46px}
 .reviews-section .google-rating-display{padding:15px}.reviews-section .google-rating-display strong{font-size:26px}
 }
+
+/* Local search visitors: prices, work photos and customer reviews. */
+.local-choice-nav{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:12px;margin:26px 0 0}
+.local-choice-nav a{display:flex;flex-direction:column;gap:6px;padding:17px 18px;background:#fff;border:1px solid #dce5dc;border-radius:14px;text-decoration:none;min-width:0;color:#18211b}
+.local-choice-nav strong{font-size:15px;line-height:1.4;overflow-wrap:anywhere}
+.local-choice-nav span{font-size:13px;line-height:1.6;color:#526258}
+.local-choice-nav a:hover{border-color:#7c9a7e;background:#f6faf4}
+.local-choice-nav a:focus-visible,.local-area-section a:focus-visible{outline:3px solid #b59800;outline-offset:4px}
+.local-area-section{padding:48px 0;scroll-margin-top:100px}
+.local-area-section h2{font-size:clamp(26px,4vw,36px);line-height:1.2;margin:8px 0 18px}
+.local-area-section h2[id]{scroll-margin-top:110px}
+.local-area-section p{line-height:1.8}
+.local-area-panel{margin:22px 0;padding:24px;background:#f6f8f5;border:1px solid #dce5dc;border-radius:16px}
+.local-area-panel h3{margin:0 0 14px;font-size:21px}
+.local-area-panel ol{padding-left:22px;line-height:1.8}
+.local-area-panel li{margin:9px 0}
+.local-area-panel .btn{margin-top:8px;white-space:normal;text-align:center}
+@media(max-width:640px){.local-choice-nav{grid-template-columns:1fr;gap:9px;margin-top:20px}.local-choice-nav a{padding:13px 15px}.local-area-section{padding:34px 0}.local-area-panel{padding:19px}.local-area-panel .btn{display:flex;width:100%}}

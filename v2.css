@@ -130,3 +130,6 @@ body.legacy-page .region-hero .wrap{padding-top:44px}
 body.legacy-page .region-hero .answer strong{color:var(--yellow)}
 body.legacy-page main .region-hero .eyebrow.dark{color:var(--yellow)}
 body.legacy-page .region-hero nav[aria-label="İçerik yolu"]{display:none}
+body.legacy-page ul.tags{list-style:none;display:flex;flex-wrap:wrap;gap:8px;padding:0;margin:16px 0 20px;max-width:none}
+body.legacy-page ul.tags li{max-width:none;margin:0;padding:7px 13px;background:#fff;border:1px solid var(--line);border-radius:999px;font-size:15px;font-weight:600;color:var(--ink);line-height:1.3}
+body.legacy-page .more-areas-p{margin:0}

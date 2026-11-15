@@ -1,0 +1,7 @@
+# Önizleme ve deneme alan adları (*.pages.dev) Google'da indekslenmesin.
+# Ana alan adı iztem.com.tr bu kurallardan etkilenmez.
+https://:project.pages.dev/*
+  X-Robots-Tag: noindex, nofollow
+
+https://:version.:project.pages.dev/*
+  X-Robots-Tag: noindex, nofollow

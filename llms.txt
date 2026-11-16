@@ -38,8 +38,9 @@
 ## İzmir genelinde ek temizlik hizmetleri
 - [Tente temizliği](https://iztem.com.tr/tente-temizligi/): cafe, restoran, işyeri, balkon ve site tenteleri.
 - [Zemin temizliği](https://iztem.com.tr/zemin-temizligi/): ev, ofis, mağaza, depo ve inşaat sonrası zeminler.
-- [Dış cephe temizliği](https://iztem.com.tr/dis-cephe-temizligi/): bina, site, iş yeri ve villa cepheleri.
+- [Dış cephe temizliği](https://iztem.com.tr/dis-cephe-temizligi/): villa, iş yeri ve alçak bina cepheleri; en fazla 5 metre yüksekliğe kadar, yüksek binalarda hizmet verilmez.
 - [Cam temizliği](https://iztem.com.tr/cam-temizligi/): vitrin, dükkan, cafe, villa camı, cam balkon ve ofis camları.
+- [Tabela temizliği](https://iztem.com.tr/tabela-temizligi/): ışıklı, kutu harf, folyo ve branda tabelalar; en fazla 5 metre yüksekliğe kadar.
 - Bu hizmetlerde fiyat sabit tarifeyle verilmez; fotoğraf, alan veya adet bilgisine göre teklif hazırlanır. Kesin sonuç garantisi verilmez.
 
 ## Klima temizliği kapsamı

@@ -4,7 +4,7 @@
 
 ## Doğrulanabilir işletme bilgileri
 - İşletme adı: İZTEM Koltuk Yıkama.
-- Hizmet: koltuk takımı, L koltuk, kanepe, çekyat, berjer, kumaş sandalye, yatak yüzeyi temizliği, klima iç ünite/filtre temizliği.
+- Hizmet: koltuk takımı, L koltuk, kanepe, çekyat, berjer, kumaş sandalye, yatak yüzeyi temizliği, araç koltuğu temizliği (kumaş, deri, suni deri, alcantara), klima iç ünite/filtre temizliği.
 - Hizmet alanı: İzmir Çiğli, Menemen ve Karşıyaka. İlçe içindeki uygunluk randevu planına göre teyit edilir.
 - Hizmet türü: müşterinin adresinde yerinde temizlik. Müşteri kabul eden sabit mağaza bulunmaz.
 - Telefon: +90 543 810 80 96.
@@ -21,6 +21,7 @@
 - [Koltuk yıkama](https://iztem.com.tr/koltuk-yikama/)
 - [Klima temizliği](https://iztem.com.tr/klima-temizligi/)
 - [Sandalye yıkama](https://iztem.com.tr/sandalye-yikama/)
+- [Yerinde araç koltuk yıkama](https://iztem.com.tr/yerinde-arac-koltuk-yikama/): aracın bulunduğu yerde (ev önü, otopark, iş yeri); Koch Chemie araç bakım ürünleri ve Kärcher ekstraksiyon makinesi; İzmir geneli ilçeler randevu ile.
 - [Yatak temizliği](https://iztem.com.tr/yatak-temizligi/)
 - [İletişim ve randevu](https://iztem.com.tr/iletisim/)
 - [Gerçek uygulama fotoğrafları](https://iztem.com.tr/calismalarimiz/)

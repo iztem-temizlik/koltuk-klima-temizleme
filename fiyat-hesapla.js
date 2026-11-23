@@ -1,5 +1,6 @@
 /* İZTEM fiyat hesaplama aracı – 2026 başlangıç fiyatları.
-   Kullanım: <div data-fiyat-hesapla data-bolge="Çiğli" data-uzak="0"></div> */
+   Kullanım: <div data-fiyat-hesapla data-bolge="Çiğli" data-uzak="0"></div>
+   Araç koltuğu: <div data-fiyat-hesapla data-tur="arac"></div> */
 (function () {
   var URUNLER = [
     ['tekli', 'Tekli koltuk / berjer', 800],
@@ -41,7 +42,43 @@
       '.fh .b{width:100%;justify-content:center;margin-top:6px}';
     document.head.appendChild(st);
   }
+
+  var ARAC = [
+    ['2', '2 koltuk (ön koltuklar)', 1500],
+    ['4', '4 koltuk', 1800],
+    ['5', '5 koltuk (tam otomobil)', 2000],
+    ['7', '7–8 koltuk (7 kişilik, minivan)', 3500],
+    ['servis', 'Servis aracı, minibüs (9+ koltuk)', 0]
+  ];
+  var ARAC_EK = [['taban', 'Taban (paspas altı)'], ['tavan', 'Tavan döşemesi'], ['kapi', 'Kapı döşemeleri'], ['bagaj', 'Bagaj'], ['deri', 'Deri veya alcantara koltuk']];
+  function buildArac(el) {
+    var html = '<div class="fh"><h3>Araç Koltuğu Fiyat Hesapla</h3><p class="fh-sub">Koltuk sayısını ve istediğiniz ek alanları seçin, başlangıç fiyatını görün ve WhatsApp’tan fiyat isteyin.</p><div class="fh-ek" style="margin-top:0"><b>Yıkanacak koltuk sayısı:</b>';
+    ARAC.forEach(function (a, i) {
+      html += '<label><input type="radio" name="fh-arac" data-a="' + a[0] + '"' + (i === 2 ? ' checked' : '') + '> ' + a[1] + (a[2] ? ' — ' + tl(a[2]) + '’den' : ' — fotoğrafla, toplu işe indirimli') + '</label>';
+    });
+    html += '</div><div class="fh-ek"><b>Ek alanlar (isteğe bağlı):</b>';
+    ARAC_EK.forEach(function (e) { html += '<label><input type="checkbox" data-e="' + e[0] + '"> ' + e[1] + '</label>'; });
+    html += '</div><div class="fh-sum" aria-live="polite">Koltuklar için başlangıç fiyatı<b data-t>0 TL</b></div>' +
+      '<a class="b b-wa b-lg" data-wa href="https://wa.me/' + TEL + '" rel="noopener noreferrer" target="_blank">WhatsApp’tan Fiyat İste</a>' +
+      '<p class="fh-note">2026 başlangıç fiyatlarıdır. Taban, tavan, kapı ve bagaj ayrıca fiyatlanır; işin kapsamına göre toplam 1.500 TL ile 7.000 TL arasında değişir. Kesin fiyat koltukların ve aracın fotoğrafına göre bildirilir.</p></div>';
+    el.innerHTML = html;
+    function guncelle() {
+      var sec = null;
+      ARAC.forEach(function (a) { if (el.querySelector('[data-a="' + a[0] + '"]').checked) sec = a; });
+      var ekler = [];
+      ARAC_EK.forEach(function (e) { if (el.querySelector('[data-e="' + e[0] + '"]').checked) ekler.push(kucuk(e[1])); });
+      el.querySelector('[data-t]').textContent = sec && sec[2] ? tl(sec[2]) + '’den' + (ekler.length ? ' + ek alanlar' : '') : 'Fotoğrafla teklif';
+      var msg = 'Merhaba İZTEM, araç koltuk yıkama fiyatı almak istiyorum.';
+      if (sec) msg += ' Koltuk: ' + kucuk(sec[1]) + '.';
+      if (ekler.length) msg += ' Ek alanlar: ' + ekler.join(', ') + '.';
+      msg += ' Araç modeli: ... Adres/ilçe: ... Fotoğrafları gönderiyorum.';
+      el.querySelector('[data-wa]').href = 'https://wa.me/' + TEL + '?text=' + encodeURIComponent(msg);
+    }
+    el.addEventListener('change', guncelle);
+    guncelle();
+  }
   function build(el) {
+    if (el.getAttribute('data-tur') === 'arac') return buildArac(el);
     var bolge = el.getAttribute('data-bolge') || '';
     var uzak = el.getAttribute('data-uzak') === '1';
     var adet = {};

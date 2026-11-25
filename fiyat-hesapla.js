@@ -94,7 +94,7 @@
     EKLER.forEach(function (e) { html += '<label><input type="checkbox" data-e="' + e[0] + '"> ' + e[1] + '</label>'; });
     html += '</div><div class="fh-sum" aria-live="polite">Başlangıç toplamı<b data-t>0 TL</b></div>' +
       '<a class="b b-wa b-lg" data-wa href="https://wa.me/' + TEL + '" rel="noopener noreferrer" target="_blank">WhatsApp’tan Fiyat İste</a>' +
-      '<p class="fh-note">Bu tutar 2026 başlangıç fiyatıdır' + (uzak ? (bolge ? '; ' + bolge + ' için yol mesafesine göre fark olabilir' : '') : '') +
+      '<p class="fh-note">Bu tutar 2026 başlangıç fiyatıdır' + (bolge ? (uzak ? '; ' + bolge + ' için yol ücreti fiyat bildirilirken ayrıca yazılır' + (bolge === 'Bergama' ? '' : ', 4.000 TL ve üzeri işlerde alınmaz') : '; ' + bolge + ' için yol ücreti alınmaz') : '') +
       '. İşaretlediğiniz durumlar, minder sayısı ve kumaş fiyatı artırabilir. Kesin fiyat, göndereceğiniz fotoğraflara göre bildirilir.</p></div>';
     el.innerHTML = html;
     function guncelle() {
